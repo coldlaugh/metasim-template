@@ -4,6 +4,9 @@
 2. Lead the user back to the website, and then guide the user to upload the files.
 
 -----------
+use https://shepherdjs.dev/ for visual walkthrough on the webpage.
+
+-----------
 
 
 1. a colab to run model inference.
